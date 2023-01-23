@@ -1,5 +1,5 @@
-<?php get_header() ?> //récupère header.php
+<?php get_header() ?> 
 <body>
 Ici votre contenu
 </body>
-<?php get_footer() ?> //récupère footer.php
+<?php get_footer() ?> 
